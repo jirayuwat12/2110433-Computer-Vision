@@ -1,0 +1,10 @@
+path: ./parasite_dataset
+train: images/train
+val: images/val
+
+names:
+  0: Capillaria philippinensis
+  1: Enterobius vermicularis
+  2: Hymenolepis diminuta
+  3: Hymenolepis nana
+  4: Paragonimus spp

@@ -1,0 +1,5 @@
+*.zip
+*.pt
+runs/
+parasite_*/
+datasets/
